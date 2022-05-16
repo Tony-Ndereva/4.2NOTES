@@ -1,0 +1,58 @@
+Group1
+Fog and Edge Computing
+	Introduction	
+	Architecture of Fog Computing
+	Operations of Fog Computing 
+	Architecture of Edge Computing
+	Operations of Edge Computing 
+	Conclusion
+Group2
+Mobile Cloud Computing (MCC)
+	Introduction
+	Architecture
+	Interoperability
+	Perfomance
+	Security concerns in MCC
+	Other Emerging Issues in MCC
+	Conclusion
+Group3
+Cloud Computing Providers
+	Introduction
+	Popular Providers 
+	Services and platforms they offer
+	Other Emerging providers of  CC
+	Conclusion
+Group4
+Cloud Computing Implementation Challenges
+	Introduction
+	Security and Privacy
+	Interoperability
+	Portability
+	Computing Perfomance
+	Reliability and Availability
+	Other Emerging Challenges in CC
+	Conclusion
+
+Group5
+Cloud Computing Applications (Areas)
+	Introduction
+	Business Application 
+	Data Storage and Backup
+	Management Application
+	Social Applications
+	Entertainment Applications
+	Art Applications
+	Other emerging Application areas
+	Conclusion
+Group6
+Cloud Computing Operations and Security
+	Introduction	
+	Managing Cloud Operations	
+	CC Security Planning
+	CC Security Architecture
+	Cloud Data Security
+	Cloud Security Controls
+	Conclusion
+	
+	
+	
